@@ -30,8 +30,11 @@ def main():
 
             print(f"✅ Result: {num1} {op} {num2} = {result}\n")
 
-        except ValueError:
-            print("❌ Invalid input. Please enter numbers only.\n")
+
+        except ValueError as e:
+            print(f"❌ Error: {e}. Please try again.\n")
+
+
         except KeyboardInterrupt:
             print("\n👋 Calculator closed. Goodbye!")
             break
