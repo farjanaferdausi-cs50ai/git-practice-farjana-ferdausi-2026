@@ -2,8 +2,8 @@
 
 🎓 Ostad • AI/ML Engineering Bootcamp • Batch 6  
 Submitted by: Farjana Ferdausi  
-GitHub: @farjanaferdausi  
-Repository: git-practice-farjanaferdausi  
+GitHub: @farjanaferdausi-cs50ai  
+Repository: git-practice-farjana-ferdausi-2026  
 
 📌 Assignment Requirements  
 ✅ Basic error handling added to calculator  
