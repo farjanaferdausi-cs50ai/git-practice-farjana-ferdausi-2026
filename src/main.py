@@ -41,3 +41,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    print('Thank you for using Farjana\'s Calculator!')
