@@ -5,7 +5,7 @@ A simple command-line calculator built in Python for practicing Git version cont
 The calculator performs addition, subtraction, multiplication, and division with robust error handling.
 
 Tech Stack
-- Python 3.8+
+- Python 3.8
 - Git & GitHub
 
  Features
