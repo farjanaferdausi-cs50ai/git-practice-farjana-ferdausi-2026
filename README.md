@@ -1,10 +1,4 @@
-## Student Information
-
-Full Name: Farjana Ferdausi  
-GitHub Username: farjanaferdausi-cs50ai  
-Repository Link: https://github.com/farjanaferdausi-cs50ai/git-practice-farjana-ferdausi-2026
-
-#  Git Practice Calculator – Ostad, Module 8 Assignment 
+## Git Practice Calculator – Ostad, Module 8 Assignment 
 
 🎓 Ostad • AI/ML Engineering Bootcamp • Batch 6  
 Submitted by: Farjana Ferdausi  
@@ -33,3 +27,10 @@ Repository: git-practice-farjana-ferdausi-2026
 
  Unique Touch  
 A personalised ASCII banner welcomes you by name.  
+
+
+## Student Information
+
+Full Name: Farjana Ferdausi  
+GitHub Username: farjanaferdausi-cs50ai  
+Repository Link: https://github.com/farjanaferdausi-cs50ai/git-practice-farjana-ferdausi-2026
